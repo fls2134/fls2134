@@ -2,5 +2,6 @@
 
 ## stack
 
-https://img.shields.io/badge/just%20the%20message-8A2BE2
+![Static Badge](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=%23ffffff)
+
 
