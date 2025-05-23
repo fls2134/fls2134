@@ -4,4 +4,6 @@
 
 ![Static Badge](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=%23ffffff)
 
+![Static Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff)
+
 
