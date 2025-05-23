@@ -2,3 +2,4 @@
 
 ![Static Badge](https://img.shields.io/badge/python-blue)
 
+![Static Badge](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=ffffff)
