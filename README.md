@@ -1,3 +1,3 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
-[![Static Badge](https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/any_text-you_like-blue)
+![Static Badge](https://img.shields.io/badge/:badgeContent)
